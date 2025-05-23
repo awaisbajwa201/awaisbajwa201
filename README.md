@@ -1,4 +1,4 @@
-### Hi, I’m @abajwa20  
+### Hi, I’m @Awais Bajwa 
 **Principal Machine Learning Architect**  
 *Innovating AI/ML solutions and building scalable systems to transform business through data-driven insights*
 
@@ -22,7 +22,7 @@
 - Open-source contributions in machine learning frameworks and tools  
 
 **How to reach me**  
-- Email: abajwa20@example.com
+- Email: abajwa20111@gmail.com
   
 **Fun fact**  
 I can teach machines to learn so quickly, they sometimes surprise me with the results!
